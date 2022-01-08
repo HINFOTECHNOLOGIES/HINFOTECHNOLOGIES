@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "397000000002420",
+      "name": "HINFOTECH",
+      "domain": {
+        "id": "50006761081",
+        "name": "hinfotech-60012191658.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60012191658",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
